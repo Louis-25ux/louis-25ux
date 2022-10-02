@@ -1,4 +1,4 @@
-### Hi there, I'm [LOUIS](https://anuraghazra.github.io) 👋
+### Hi there, I'm Louis 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />

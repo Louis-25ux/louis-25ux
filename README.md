@@ -7,7 +7,7 @@
 
 - 📦 I’m currently working on [plt_vertrag](Coming Soon)
 
-- 💬 If you have any Questions send me a DM via Discord **_𝑳𝒐𝒖𝒊𝒔_#6605**
+- 💬 If you have any Questions send me a DM via Discord **https://discord.gg/ZDfwDYHgr8**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

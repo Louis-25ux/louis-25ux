@@ -3,9 +3,9 @@
 
 - 📦 I’m currently working on [plt_truckerjob](Coming Soon)
 
-- 🔰 I’m currently learning **C# and Python**
-
 - 📦 I’m currently working on [plt_vertrag](Coming Soon)
+
+- 🔰 I’m currently learning **C# and Python**
 
 - 💬 If you have any Questions send me a DM via Discord **https://discord.gg/ZDfwDYHgr8**
 

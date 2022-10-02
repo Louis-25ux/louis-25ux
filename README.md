@@ -1,103 +1,61 @@
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/haskell.svg" alt="Haskell" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg" alt="Ruby on Rails" height="30" width="40" />
-</p>
- 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&redirect=true)
+### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
 
-### My GitHub stats 
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true" />
+Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" />
+- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
+**Languages and Tools:**  
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
 
-**🐱 My Github Data** 
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-> 🏆 575 Contributions in the Year 2020
- > 
-> 📦 163.2 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    164 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌆 Daytime    159 commits    ████████░░░░░░░░░░░░░░░░░   32.32% 
-🌃 Evening    125 commits    ██████░░░░░░░░░░░░░░░░░░░   25.41% 
-🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Tuesday      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-Wednesday    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
-Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
-Saturday     119 commits    ██████░░░░░░░░░░░░░░░░░░░   24.19% 
-Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
-
-```
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
-📊 **This Week I Spent My Time On** 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
 
-```text
-⌚︎ Time Zone: Asia/Singapore
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
 
-💬 Programming Languages: 
-Python                   15 hrs 39 mins      ████████████████████░░░░░   82.87% 
-Docker                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
-Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-Git Config               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
+----
+Credit: [anuraghazra](https://github.com/anuraghazra)
 
-🔥 Editors: 
-PyCharm                  18 hrs 53 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  14 hrs 19 mins      ███████████████████░░░░░░   75.81% 
-Mac                      4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
-Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
------
-Credits: [aaditkamat](https://github.com/aaditkamat)
-
-Last Edited on: 27/12/2020
+Last Edited on: 19/11/2020

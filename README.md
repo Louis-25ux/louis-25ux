@@ -7,7 +7,7 @@
 
 - 🔰 I’m currently learning **C# and Python**
 
-- 💬 If you have any Questions send me a DM via Discord **https://discord.gg/ZDfwDYHgr8**
+- 💬 If you have any Questions send me a DM via Discord _𝑳𝒐𝒖𝒊𝒔_#0250
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">I`am GTA/FiveM Developer</h3>
 
-- 📦 I’m currently working on [plt_truckerjob](Coming Soon)
+- 📦 I’m currently working on [nsrp_truckerjob](Coming Soon)
 
-- 📦 I’m currently working on [plt_vertrag](Coming Soon)
+- 📦 I’m currently working on [nsrp_vertrag](Coming Soon)
 
 - 🔰 I’m currently learning **C# and Python**
 

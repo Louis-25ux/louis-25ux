@@ -1,6 +1,6 @@
 ![Louis](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/master.png)
 
-<p align="center">I'm a FiveM Developer. Who makes Scripts for FiveM</p>
+<p align="center">Hi, i'am Louis and a FiveM Developer. Who makes Scripts for FiveM</p>
 
  <p align="center"></p>
 

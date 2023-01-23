@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">I`am FiveM Developer</h3>
 
-Next Releases will be:
-- Deutscher Wetterdienst Script
-
-So stay tuned for the further releases 
-
-- 💬 If you have any Questions send me a DM via Discord _𝑳𝒐𝒖𝒊𝒔_ #0250
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">I`am FiveM Developer</h3>
 
-And i'am making free Scripts for FiveM. 
+I'am a FiveM Developer who makes Free Scripts.
 
 
 <h3 align="left">Connect with me:</h3>

@@ -13,7 +13,7 @@
 
 <table width="100%"> 
   <tr>
-    <td><img src="https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/DiscordGif.gif" alt="Discord" /></td>
+    <td><img src="https://logosmarken.com/wp-content/uploads/2021/03/FiveM-Logo.png" alt="FiveM" /></td>
     <td><img src="https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/verified_developer_badge.png" alt="Discord Verified Dev Badge" /></td>
   </tr>
 </table>

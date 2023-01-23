@@ -1,8 +1,8 @@
 ![Louis](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/master.png)
 
-<p align="center">I'm a FiveM Developer. Who makes free Scripts for your FiveM Server or just for Fun.h</p>
+<p align="center">I'm a FiveM Developer. Who makes free Scripts for your FiveM Server or just for Fun</p>
 
- <p align="center">In the past I made many Discord Bots and gained experience coding Bots using JavaScript.</p>
+ <p align="center">Go and checkout some of my releases</p>
 
 <p align="center">
   <a href="https://github.com/DevItsMB?tab=followers">

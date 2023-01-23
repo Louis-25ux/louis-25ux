@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">I`am FiveM Developer</h3>
 
-- 📦 I’m currently working on [nsrp_truckerjob](Coming Soon)
+Next Releases will be:
+- Deutscher Wetterdienst Script
 
-- 📦 I’m currently working on [nsrp_vertrag](Coming Soon)
-
-- 🔰 I’m currently learning **C# and Python**
+So stay tuned for the further releases 
 
 - 💬 If you have any Questions send me a DM via Discord _𝑳𝒐𝒖𝒊𝒔_ #0250
 

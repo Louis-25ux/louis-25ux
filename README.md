@@ -1,16 +1,26 @@
-<h1 align="center">Hi 👋, I'm Louis</h1>
+![Louis](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/master.png)
 
-I'am a FiveM Developer who makes Free Scripts.
+<p align="center">I'm a Discord Bot Developer. Join me on my <a href="https://discord.gg/QYcu3Pz">Discord Server</a> so we get in touch</p>
 
+ <p align="center">In the past I made many Discord Bots and gained experience coding Bots using JavaScript.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/KinderRiegel #5208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KinderRiegel #5208" height="30" width="40" /></a>
-</p>
+<p align="center">
+  <a href="https://github.com/DevItsMB?tab=followers">
+    <img src="https://img.shields.io/github/followers/DevItsMB?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://discord.gg/yZJ2pBfJhX">
+    <img src="https://img.shields.io/discord/792390187958140948?logo=discord&style=for-the-badge" />
+  </a>
+<p align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<table width="100%"> 
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/DiscordGif.gif" alt="Discord" /></td>
+    <td><img src="https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/verified_developer_badge.png" alt="Discord Verified Dev Badge" /></td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louis-25ux&show_icons=true&locale=en&layout=compact" alt="louis-25ux" /></p>
+<p align="center">
+<img src="https://media1.tenor.com/images/f8448fef6f65d672657a1e5a91d68ba4/tenor.gif?itemid=17752213" />
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=louis-25ux&show_icons=true&locale=en" alt="louis-25ux" /></p>

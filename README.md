@@ -1,6 +1,6 @@
 ![Louis](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/master.png)
 
-<p align="center">I'm a Discord Bot Developer. Join me on my <a href="https://discord.gg/QYcu3Pz">Discord Server</a> so we get in touch</p>
+<p align="center">I'm a FiveM Developer. Who makes free Scripts for your FiveM Server or just for Fun.h</p>
 
  <p align="center">In the past I made many Discord Bots and gained experience coding Bots using JavaScript.</p>
 
